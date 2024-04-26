@@ -1,1 +1,1 @@
-# This is a repository to learn and practice Java
+# This is my repository to learn and practice Java
